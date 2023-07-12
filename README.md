@@ -31,7 +31,7 @@ cd moveai-renamer
 
 ## Usage
 
-Make sure you have your `.mov` files along with a `session.json` (settings file) in the same directory.
+Make sure you have your `.mov` files along with a `session.json` in the same directory.
 
 Run the script from the command line like this:
 
